@@ -1,0 +1,20 @@
+cd (change directory) - navegação de paginas via prompt de comando ou git
+cd .. - voltar para o diretório acima  
+dir - Listar arquivos e diretórios 
+del - remover arquivo 
+mkdir folder_name - criar diretório 
+rmdir - deletar uma pasta vazia 
+rmdir /s - deletar uma pasta que não esteja vazia
+echo %cd% - exibir o diretório atual 
+cls - limpar o terminal 
+
+
+BLOBS ->  Contem metadados do git (tipo de objeto, tamanho)
+TREES (arvore) -> Armazenam blobs 
+COMMITS -> Da sentido para as operações realizadas. Realiza a ligação
+entre trees, blobs, parentes (commits antecessor), autor, mensagem
+e data de criação 
+
+chaves ssh e tokens 
+
+Chave SSH - Forma de estabelecer uma conexão segura entre das maquinas. 
