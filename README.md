@@ -1,2 +1,5 @@
 # dio-primeiro-repositorio
-Desafio de projeto sobre Git/Github
+Repositório criado para o desafio de projeto.
+
+## Links úteis
+[Perfil no Instagram](https://www.instagram.com/denisfalcao_/)
